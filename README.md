@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Hrishikesh--Kumbhar-Software--Engineer-blue)
 
-### Project Link : [Link](https://videostic-hrishikumbhar5151-gmailcom.vercel.app/s)
+### Project Link : [Link](https://videostic-hrishikumbhar5151-gmailcom.vercel.app/)
 
 ### What I Learned from this Project?
 
