@@ -21,4 +21,4 @@
 
 ### Screenshot
 
-![](<./src/assets/video.png)
+![](./src/assets/video.png)
